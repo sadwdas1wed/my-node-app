@@ -1,0 +1,4 @@
+[2026-09-22 22:08:30] server:started: 3000
+[2026-09-22 22:09:24] request:received: {"method":"GET","url":"/"}
+[2026-09-22 22:09:24] request:received: {"method":"GET","url":"/favicon.ico"}
+[2026-09-22 22:10:24] server:stopped: undefined
