@@ -1,0 +1,35 @@
+Отчет синхронизации (Вариант 5)
+Дата: 24.09.2026, 00:20:27
+========================================
+Исходная директория: source_5
+Директория назначения: backup_5
+
+Результаты копирования:
+- Потоковое копирование (с сжатием): 16 файлов
+- Обычное копирование: 14 файлов
+- Общий размер: 26.90 КБ
+- Время выполнения: 0.04 сек
+
+Результаты сравнения:
+- Совпадают: 14 файлов
+- Изменены: 16 файлов
+- Добавлены: 0 файлов
+- Удалены: 0 файлов
+
+Детали:
+️  Изменен: file_1.js (size, modified)
+️  Изменен: file_10.txt (size, modified)
+️  Изменен: file_11.js (size, modified)
+️  Изменен: file_12.json (size, modified)
+️  Изменен: file_2.json (size, modified)
+️  Изменен: file_20.txt (size, modified)
+️  Изменен: manifest.json (size, modified)
+️  Изменен: sub1/sub1_file_1.txt (size, modified)
+️  Изменен: sub1/sub1_file_2.txt (size, modified)
+️  Изменен: sub1/sub1_file_3.txt (size, modified)
+️  Изменен: sub2/sub2_file_1.txt (size, modified)
+️  Изменен: sub2/sub2_file_2.txt (size, modified)
+️  Изменен: sub2/sub2_file_3.txt (size, modified)
+️  Изменен: sub3/sub3_file_1.txt (size, modified)
+️  Изменен: sub3/sub3_file_2.txt (size, modified)
+️  Изменен: sub3/sub3_file_3.txt (size, modified)

@@ -1,0 +1,159 @@
+{
+  "files": [
+    {
+      "name": "file_1.js",
+      "size": 860,
+      "ext": ".js"
+    },
+    {
+      "name": "file_2.json",
+      "size": 1040,
+      "ext": ".json"
+    },
+    {
+      "name": "file_3.jpg",
+      "size": 1200,
+      "ext": ".jpg"
+    },
+    {
+      "name": "file_4.png",
+      "size": 1120,
+      "ext": ".png"
+    },
+    {
+      "name": "file_5.gif",
+      "size": 260,
+      "ext": ".gif"
+    },
+    {
+      "name": "file_6.css",
+      "size": 940,
+      "ext": ".css"
+    },
+    {
+      "name": "file_7.html",
+      "size": 560,
+      "ext": ".html"
+    },
+    {
+      "name": "file_8.md",
+      "size": 960,
+      "ext": ".md"
+    },
+    {
+      "name": "file_9.log",
+      "size": 800,
+      "ext": ".log"
+    },
+    {
+      "name": "file_10.txt",
+      "size": 861,
+      "ext": ".txt"
+    },
+    {
+      "name": "file_11.js",
+      "size": 1365,
+      "ext": ".js"
+    },
+    {
+      "name": "file_12.json",
+      "size": 1092,
+      "ext": ".json"
+    },
+    {
+      "name": "file_13.jpg",
+      "size": 378,
+      "ext": ".jpg"
+    },
+    {
+      "name": "file_14.png",
+      "size": 483,
+      "ext": ".png"
+    },
+    {
+      "name": "file_15.gif",
+      "size": 420,
+      "ext": ".gif"
+    },
+    {
+      "name": "file_16.css",
+      "size": 882,
+      "ext": ".css"
+    },
+    {
+      "name": "file_17.html",
+      "size": 840,
+      "ext": ".html"
+    },
+    {
+      "name": "file_18.md",
+      "size": 357,
+      "ext": ".md"
+    },
+    {
+      "name": "file_19.log",
+      "size": 1260,
+      "ext": ".log"
+    },
+    {
+      "name": "file_20.txt",
+      "size": 252,
+      "ext": ".txt"
+    },
+    {
+      "name": "sub1_file_1.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub1"
+    },
+    {
+      "name": "sub1_file_2.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub1"
+    },
+    {
+      "name": "sub1_file_3.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub1"
+    },
+    {
+      "name": "sub2_file_1.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub2"
+    },
+    {
+      "name": "sub2_file_2.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub2"
+    },
+    {
+      "name": "sub2_file_3.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub2"
+    },
+    {
+      "name": "sub3_file_1.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub3"
+    },
+    {
+      "name": "sub3_file_2.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub3"
+    },
+    {
+      "name": "sub3_file_3.txt",
+      "size": 31,
+      "ext": ".txt",
+      "sub": "sub3"
+    }
+  ],
+  "created": "2026-09-23T21:20:27.222Z"
+}
