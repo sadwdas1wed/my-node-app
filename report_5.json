@@ -1,0 +1,81 @@
+{
+  "totalFiles": 78,
+  "totalFolders": 51,
+  "totalSize": 72164,
+  "extensions": {
+    "без расширения": {
+      "count": 48,
+      "size": 20457
+    },
+    ".sample": {
+      "count": 14,
+      "size": 25827
+    },
+    ".js": {
+      "count": 9,
+      "size": 24939
+    },
+    ".json": {
+      "count": 1,
+      "size": 247
+    },
+    ".txt": {
+      "count": 6,
+      "size": 694
+    }
+  },
+  "top5Largest": [
+    {
+      "name": "index.js",
+      "path": "C:\\Users\\kartu\\my-node-app\\index.js",
+      "size": 5552
+    },
+    {
+      "name": "pre-rebase.sample",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\hooks\\pre-rebase.sample",
+      "size": 4898
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\hooks\\fsmonitor-watchman.sample",
+      "size": 4726
+    },
+    {
+      "name": "update.sample",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\hooks\\update.sample",
+      "size": 3650
+    },
+    {
+      "name": "HEAD",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\logs\\HEAD",
+      "size": 3644
+    }
+  ],
+  "top5Smallest": [
+    {
+      "name": ".gitignore",
+      "path": "C:\\Users\\kartu\\my-node-app\\.gitignore",
+      "size": 35
+    },
+    {
+      "name": "HEAD",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\HEAD",
+      "size": 36
+    },
+    {
+      "name": "ORIG_HEAD",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\ORIG_HEAD",
+      "size": 41
+    },
+    {
+      "name": "callbacks-promises",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\refs\\heads\\feature\\callbacks-promises",
+      "size": 41
+    },
+    {
+      "name": "createfiles",
+      "path": "C:\\Users\\kartu\\my-node-app\\.git\\refs\\heads\\feature\\createfiles",
+      "size": 41
+    }
+  ]
+}
