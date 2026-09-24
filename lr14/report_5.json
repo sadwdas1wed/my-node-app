@@ -1,0 +1,77 @@
+{
+  "directory": ".",
+  "variant": 5,
+  "date": "2026-09-23T21:20:25.039Z",
+  "totalFolders": 11,
+  "totalFiles": 17,
+  "totalSize": 24646,
+  "totalSizeFormatted": "24.07 КБ",
+  "extensions": {
+    ".json": {
+      "count": 1,
+      "size": 240
+    },
+    ".txt": {
+      "count": 11,
+      "size": 1517
+    },
+    ".js": {
+      "count": 5,
+      "size": 22889
+    }
+  },
+  "top5Largest": [
+    {
+      "path": "task5.js",
+      "size": 9150,
+      "name": "task5.js"
+    },
+    {
+      "path": "task4.js",
+      "size": 4128,
+      "name": "task4.js"
+    },
+    {
+      "path": "task3.js",
+      "size": 4021,
+      "name": "task3.js"
+    },
+    {
+      "path": "task2.js",
+      "size": 3968,
+      "name": "task2.js"
+    },
+    {
+      "path": "task1.js",
+      "size": 1622,
+      "name": "task1.js"
+    }
+  ],
+  "top5Smallest": [
+    {
+      "path": "project_5\\src\\components\\info.txt",
+      "size": 93,
+      "name": "info.txt"
+    },
+    {
+      "path": "project_5\\data\\input\\info.txt",
+      "size": 97,
+      "name": "info.txt"
+    },
+    {
+      "path": "project_5\\src\\components\\1\\info.txt",
+      "size": 101,
+      "name": "info.txt"
+    },
+    {
+      "path": "project_5\\src\\components\\2\\info.txt",
+      "size": 101,
+      "name": "info.txt"
+    },
+    {
+      "path": "project_5\\src\\components\\3\\info.txt",
+      "size": 101,
+      "name": "info.txt"
+    }
+  ]
+}
